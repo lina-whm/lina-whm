@@ -26,6 +26,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lina-whm&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=lina-whm&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8" height="180" alt="trophy" />
 </div>
 
