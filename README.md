@@ -27,8 +27,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=lina-whm&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8" height="180" alt="trophy" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://lina-whm.github.io/pacman-graph/pacman.svg?username=lina-whm" height="180" alt="pacman" />
-</div>
