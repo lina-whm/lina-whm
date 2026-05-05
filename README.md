@@ -1,4 +1,17 @@
-<h1 align="center">Hey 👋 I'm Polina</h1>
+<h1 align="center">
+  <script>
+    const text = "Hey 👋 I'm Polina";
+    let i = 0;
+    function type() {
+      if (i < text.length) {
+        document.getElementById("title").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(type, 100);
+      }
+    }
+    type();
+  </script>
+</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
@@ -10,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextauth" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="githubactions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
