@@ -1,17 +1,4 @@
-<h1 align="center">
-  <script>
-    const text = "Hey 👋 I'm Polina";
-    let i = 0;
-    function type() {
-      if (i < text.length) {
-        document.getElementById("title").innerHTML += text.charAt(i);
-        i++;
-        setTimeout(type, 100);
-      }
-    }
-    type();
-  </script>
-</h1>
+<h1 align="center">Hey 👋 I'm Polina</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
