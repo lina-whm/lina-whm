@@ -1,23 +1,23 @@
 <h1 align="center">Hey 👋 I'm Polina</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextauth" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="githubactions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws" />
 </div>
 
 ---
