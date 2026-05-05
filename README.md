@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋 I'm Polina</h1>
+<div align="center">
+  <img src="https://i.ibb.co/vx22Tb4b/Text-Studio-Typewriter.gif" height="80" alt="Hey I'm Polina" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
