@@ -14,6 +14,14 @@
   <img src="https://skillicons.dev/icons?i=prisma,nginx,figma" height="60" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://pacman.abozanona.me/?username=lina-whm" height="180" />
+</div>
+
+---
+
 ### 📬 Contacts
 
 - **Telegram:** [@li1nsd](https://t.me/li1nsd)
