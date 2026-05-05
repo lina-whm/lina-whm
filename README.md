@@ -1,4 +1,4 @@
-![Typing](typing.gif)
+![Typing](https://i.ibb.co/7dqPGC1L/Text-Studio-Typewriter.gif)
 
 ---
 
