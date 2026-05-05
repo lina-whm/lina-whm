@@ -10,7 +10,7 @@
 
 **Frontend:** React 19, Next.js 15 (App Router), Tailwind CSS, shadcn/ui
 
-**State & Data:** TanStack Query, Zustand, React Hook Form + Zod
+**State & Forms:** TanStack Query, Zustand, React Hook Form, Zod
 
 **Backend & DB:** Prisma ORM, Turso (libSQL)
 
