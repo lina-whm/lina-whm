@@ -4,8 +4,8 @@ Frontend-разработчица с фокусом на React и TypeScript
 
 ---
 
-## 🌐 Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:polina.nikolskaia@gmail.com)
+## 📬 Контакты
+polina.nikolskaia@gmail.com
 
 ---
 
