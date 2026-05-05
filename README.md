@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Полина 👋
 
-<!--
-**lina-whm/lina-whm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчица с фокусом на React и TypeScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основной стек
+
+**React 19, Next.js 15** (App Router) • **Tailwind CSS, shadcn/ui** • **TanStack Query, Zustand** • **React Hook Form, Zod** • **Prisma ORM** • **Vitest, Playwright** • **GitHub Actions, Docker**
+
+---
+
+## Дополнительно
+
+REST API, OpenRouter API (AI-интеграции) • NextAuth.js • Turso (libSQL) / PostgreSQL • PWA, адаптивная верстка, Core Web Vitals
+
+---
+
+## Контакты
+
+📧 polina.nikolskaia@gmail.com
+
+🔗 [Telegram](https://t.me/username)
+
+🌐 [Портфолио](https://example.com)
