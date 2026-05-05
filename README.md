@@ -1,4 +1,6 @@
-![Typing](https://i.ibb.co/7dqPGC1L/Text-Studio-Typewriter.gif)
+<div align="center">
+  <img src="https://i.ibb.co/7dqPGC1L/Text-Studio-Typewriter.gif" height="80" />
+</div>
 
 ---
 
