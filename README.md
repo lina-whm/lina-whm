@@ -6,16 +6,16 @@
 
 ### 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite" height="50" />
-  <img src="https://skillicons.dev/icons?i=git,docker,figma" height="50" />
-</div>
+**Languages:** TypeScript, JavaScript (ES6+)
 
-**Languages:** TypeScript, JavaScript (ES6+)  
-**Frontend:** React 19, Next.js 15 (App Router), Tailwind CSS, shadcn/ui  
-**State & Data:** TanStack Query, Zustand, React Hook Form + Zod  
-**Backend & DB:** Prisma ORM, Turso (libSQL)  
-**Testing:** Vitest, Playwright  
+**Frontend:** React 19, Next.js 15 (App Router), Tailwind CSS, shadcn/ui
+
+**State & Data:** TanStack Query, Zustand, React Hook Form + Zod
+
+**Backend & DB:** Prisma ORM, Turso (libSQL)
+
+**Testing:** Vitest, Playwright
+
 **Tools:** Git, GitHub Actions, Docker, Figma
 
 ---
