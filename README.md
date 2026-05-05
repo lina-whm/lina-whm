@@ -35,5 +35,5 @@
 ---
 
 <div align="center">
-  <img src="https://pacman.abozanona.me?username=lina-whm" height="180" alt="pacman" />
+  <img src="https://pacman.abozanona.me/?username=lina-whm" height="180" alt="pacman" />
 </div>
