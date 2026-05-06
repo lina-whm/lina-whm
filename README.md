@@ -8,13 +8,13 @@
 
 **Languages:** TypeScript, JavaScript (ES6+)
 
-**Frontend:** React 19, Next.js 15 (App Router), Tailwind CSS, shadcn/ui
+**Frontend:** React 19, React Router, Next.js 15 (App Router), Tailwind CSS, shadcn/ui, CSS Modules
 
-**State & Forms:** TanStack Query, Zustand, React Hook Form, Zod
+**State & Forms:** TanStack Query, Redux Toolkit, Zustand, React Hook Form, Zod
 
-**Backend & DB:** Prisma ORM, Turso (libSQL)
+**Backend & DB:** Prisma ORM, Turso (libSQL), REST API, WebSocket
 
-**Testing:** Vitest, Playwright
+**Testing:** Vitest, Playwright, Jest, React Testing Library
 
 **Tools:** Git, GitHub Actions, Docker, Figma
 
