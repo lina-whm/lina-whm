@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/7dqPGC1L/Text-Studio-Typewriter.gif" height="80" />
+  <img src="https://raw.githubusercontent.com/lina-whm/lina-whm/main/TextStudio-Typewriter.gif" height="80" />
 </div>
 
 ---
