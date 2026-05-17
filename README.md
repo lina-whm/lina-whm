@@ -28,5 +28,4 @@
 
 ### 📬 Contacts
 
-- **Telegram:** [@li1nsd](https://t.me/li1nsd)
 - **Email:** polina.nikolskaia@gmail.com
