@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lina-whm/lina-whm/main/TextStudio-Typewriter.gif" height="80" />
-</div>
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**  
